@@ -13,7 +13,7 @@ I'm Ángel, a recent Computer Engineer from Seville, Spain :es:
 
 - To see my portfolio, click **[HERE]()**
 
-### 😀 Contact with Me
+### 😀 Contact with Me 😀
 - angelcalzadollamas@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/%C3%A1ngel-manuel-calzado-llamas-449019172)
 - [InfoJobs](https://www.infojobs.net/candidate/cv/view/index.xhtml?dgv=1562939243173847639)
