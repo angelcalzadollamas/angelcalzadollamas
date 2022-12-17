@@ -2,7 +2,7 @@
 
 I'm Ángel, a recent Computer Engineer from Seville, Spain :es:
 
-:sparkles: About me in 30 seconds
+### About me in 30 seconds
 
 * :eyes: Currently looking for my first job  
 * :book: Degree in Computer Engineering - Software Engineering and Official Master's Degree in Computer Engineering at the University of Seville.
