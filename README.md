@@ -1,4 +1,4 @@
-_...I am working on that site, it will finish soon! 👷‍♂️..._
+_...I am working on that site, it will be finished soon! 👷‍♂️..._
 
 ## Hi there :raising_hand_man:
 
