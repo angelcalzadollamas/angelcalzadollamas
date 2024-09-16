@@ -6,7 +6,7 @@ I'm Ángel, a recent Computer Engineer from Seville, Spain :es:
 
 ### ✨ About me in 30 seconds ✨
 
-* :eyes: Currently looking for my first job  
+* :eyes: actualmente buscando un trabajo en el sector TI relacionado con el ámbito comercial
 * :book: Degree in Computer Engineering - Software Engineering and Official Master's Degree in Computer Engineering at the University of Seville.
 * :bulb: Major interest in Artificial Intelligence (Machine Learning and Deep Learning) with Python, but also with knowledge in Java, SQL, JavaScript, CSS, Flexbox, C#, Unity, ...
 * :trophy: I am a multidisciplinary person with empathy and a willingness to learn and do things better and better
